@@ -1,2 +1,2 @@
 # Inventor_FW
-Collection of useful code that extends Inventor functionality.
+Collection of useful .net Framework code that extends Inventor functionality.
